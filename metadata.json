@@ -1,0 +1,6 @@
+{
+  "name": "Kadencio",
+  "description": "Prestataire local d'optimisation de processus et gain de temps administratif pour les TPE/PME du Lot (Figeac, Cahors, Brive).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
